@@ -7,7 +7,7 @@ developer: https://t.me/pysmart
 
 
 # STEPS TO FOLLOW
-- Set Up Telegram API Credentials
+- Set Up Telegram API Credentials from telegram API URL
 - You'll need an API Credentials from my.telegram.org.
  
 <b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
