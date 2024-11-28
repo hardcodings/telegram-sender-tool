@@ -6,7 +6,7 @@ developer: https://t.me/pysmart
 ![tgm](https://github.com/user-attachments/assets/65b50427-3b11-4260-a522-8c784599e0e0)
 
 
-# STEPS TO FOLLOW
+# STEPS TO FOLLOW CORRECTLY
 - Set Up Telegram API Credentials from telegram API URL
 - You'll need an API Credentials from my.telegram.org.
  
