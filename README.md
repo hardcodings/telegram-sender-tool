@@ -38,3 +38,5 @@ Ensure that the users.txt file is in the same directory as the script or provide
 For sending messages to phone numbers, ensure they are in your Telegram contacts. 
 
 sending automated messages to telegram users after scraping the users from bulk group or channel.
+
+TELEGRAM SENDER TOOL
