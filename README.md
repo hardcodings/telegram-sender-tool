@@ -41,3 +41,4 @@ sending automated messages to telegram users after scraping the users from bulk 
 
 TELEGRAM SENDER TOOL
 TELEGRAM BULK MESSAGE SENDER
+TELEGRAM MASS DM TOOL
